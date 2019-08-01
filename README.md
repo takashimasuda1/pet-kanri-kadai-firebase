@@ -1,4 +1,4 @@
-# Employee Manager
+# Pet
 
 > Vue.js app to manage employees that uses FireStore as a backend.
 
@@ -21,9 +21,6 @@ npm run build --report
 ## App Info
 
 ### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
